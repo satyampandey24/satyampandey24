@@ -6,8 +6,10 @@
 Here are some ideas to get you started:-->
 
 
+- 😄 Shift the ctrl to us, we will alt the world.
+- 👨‍💻 Frontend Developer || UI&UX
 - 🌱 I’m currently learning react.js (javascript framework) 
-- 🔭 Hard worker who likes blogging, Travelling, and music
+- 🔭 Hard worker who likes blogging💻, Travelling🗺️, and music🎶
 <!---
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
